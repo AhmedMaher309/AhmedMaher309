@@ -8,3 +8,5 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning about AI, machine learning, and backend developement
 - 👯 I’m looking to collaborate on large scale projects
 - 📫 How to reach me: ...
+
+
